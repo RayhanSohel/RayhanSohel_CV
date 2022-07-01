@@ -94,6 +94,7 @@ body{
 
 .resume_wrapper .resume_left .resume_namerole .role{
 	color: rgb(204, 204, 204);
+	text-transform: uppercase;
 }
 
 .resume_wrapper .resume_left .resume_contact .resume_info:last-child{
