@@ -23,7 +23,7 @@ body{
 	margin: 50px auto;
 	overflow: hidden;
 	z-index: 10;
-	backdrop-filter: blur(15px);
+	backdrop-filter: blur(30px);
 	background: rgba(255, 255, 255, 0.05);
 	box-shadow:  rgba(0, 0, 0, 0.1) 2px 3px 3px 3px;
 	padding: 10px;
@@ -104,14 +104,16 @@ body{
 	color: rgb(192, 192, 192);
 	margin-bottom: 2px;
 }
-.resume_wrapper .resume_left .resmue_social .resume_info{
+.resume_wrapper .resume_left .resmue_socials .resume_info{
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	text-align: center;
-	font-size: 38px;
-	margin-bottom: 10px;
 }
-
+.resume_wrapper .resume_left .resmue_socials .socials i{
+	font-size: 38px;
+	color: rgb(201, 81, 1);
+	margin: 20px;
+}
 .resume_wrapper .resume_left .resume_skills .skills_list{
 	display: flex;
 	justify-content: space-between;
@@ -163,7 +165,7 @@ body{
 
 .resume_wrapper .resume_right .resume_data .year{
 	padding-right: 35px;
-	width: 115px;
+	width: 140px;
 	position: relative;
 }
 
