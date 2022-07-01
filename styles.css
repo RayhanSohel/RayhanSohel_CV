@@ -51,7 +51,7 @@ body{
 }
 
 .resume_wrapper .resume_title{
-	color: rgb(201, 81, 1);
+	color:rgb(0, 255, 234);
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 16px;
@@ -85,7 +85,7 @@ body{
 
 .resume_wrapper .resume_namerole .name{
 	font-size: 25px;
-	color: rgb(201, 81, 1);
+	color:rgb(0, 255, 234);
 	text-transform: uppercase;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -112,7 +112,7 @@ body{
 }
 .resume_wrapper .resume_left .resmue_socials .socials i{
 	font-size: 38px;
-	color: rgb(201, 81, 1);
+	color: rgb(0, 255, 234);
 	margin: 20px;
 }
 .resume_wrapper .resume_left .resume_skills .skills_list{
@@ -134,7 +134,7 @@ body{
 	position: absolute;
 	top: 0;
 	left: 0;
-	background:rgb(201, 81, 1);
+	background:rgb(0, 255, 234);
 	width: 100%;
 	height: 100%;
 	border-radius: 3px;
@@ -147,7 +147,7 @@ body{
 }
 
 .resume_wrapper .resume_right .resume_namerole .name{
-	color: rgb(201, 81, 1);
+	color:rgb(0, 255, 234);
 	font-size: 34px;
 }
 
@@ -157,7 +157,7 @@ body{
 }
 
 .resume_wrapper .resume_right .resume_item .resume_title{
-	color: rgb(201, 81, 1);
+	color:rgb(0, 255, 234);
 }
 
 .resume_wrapper .resume_right .resume_data{
@@ -183,7 +183,7 @@ body{
 	right: 0;
 	width: 10px;
 	height: 10px;
-	background: rgb(201, 81, 1);
+	background:rgb(0, 255, 234);
 	border: none;
 	border-radius: 50%;
 }
@@ -210,7 +210,7 @@ body{
 
 .resume_wrapper .resume_right .resmue_interests .interests .int_icon{
 	font-size: 38px;
-	color: rgb(201, 81, 1);
+	color: rgb(0, 255, 234);
 	margin-bottom: 10px;
 }
 
@@ -244,7 +244,7 @@ body{
 		padding: 0;
 		margin-bottom: 5px;
 		width: 100%;
-		color: rgb(201, 81, 1);
+		color: rgb(0, 255, 234);
 	}
 	.resume_wrapper .resume_right .resume_data .year:before,
 	.resume_wrapper .resume_right .resume_data .year:after{
