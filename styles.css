@@ -47,7 +47,7 @@ body{
 	border-radius: 50%;
 	backdrop-filter: blur(10px);
 	background: rgba(41, 41, 41, 0);
-	box-shadow: rgba(0, 0, 0, 0.1) 3px 3px 3px 3px;
+	box-shadow: rgba(0, 0, 0, 0.2) 3px 3px 3px 3px;
 }
 
 .resume_wrapper .resume_title{
